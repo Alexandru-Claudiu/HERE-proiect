@@ -11,7 +11,7 @@
             </div>
             <button type="button" v-on:click="route()">Route</button>
         </div>
-        <HereMap ref="map" appId="fb8OVkOGZBCgAAGvHpu9" appCode="D5Li-I6ki6fibXkm8hPHMr0Bol8lVIb7yle8Ll7zJNs" lat="45.760696" lng="21.226788" width="60" height="530px" />
+        <HereMap ref="map" appId="fb8OVkOGZBCgAAGvHpu9" apiKey="D5Li-I6ki6fibXkm8hPHMr0Bol8lVIb7yle8Ll7zJNs" lat="45.760696" lng="21.226788" width="60" height="530px" />
     </div>
 </template>
 
